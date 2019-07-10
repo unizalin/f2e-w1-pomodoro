@@ -1,0 +1,28 @@
+body,html{
+  width: 100%;
+  height: 100%;
+}
+*{
+  // outline: 1px solid black;
+  position: relative;
+  font-family: Roboto;
+}
+ul,ol{
+  list-style: none;
+  padding: 0;
+}
+.home{
+  background-color: #444444;
+}
+
+
+.nav-item{
+  padding-bottom: 48px;
+}
+
+.material-icons {
+ font-size: 36px;
+}
+.nav-text{
+  writing-mode: vertical-rl
+}

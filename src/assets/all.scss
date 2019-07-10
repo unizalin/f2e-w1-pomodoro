@@ -1,0 +1,7 @@
+//bootstrap 載入套用變數的方法
+@import "~bootstrap/scss/functions";
+// 自定義的變數
+@import "./helpers/variables";
+@import "~bootstrap/scss/bootstrap";
+
+@import './main';
